@@ -22,6 +22,10 @@
 
 <img width="942" height="803" alt="Activity 3 successful pull request merge" src="https://github.com/user-attachments/assets/88708554-8bc9-4adf-a4e9-5cb14c21981e" />
 
+
+<img width="917" height="254" alt="Screenshot 2026-09-17 at 2 24 51 PM" src="https://github.com/user-attachments/assets/9abc1499-1dfc-4005-a904-f44ad220c7ae" />
+
+
 ## Activity 4
 
 
