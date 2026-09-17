@@ -9,6 +9,9 @@
 
 <img width="903" height="145" alt="Activity 2 branch merge" src="https://github.com/user-attachments/assets/4602d1b1-36fd-404c-9937-4a5783ca7227" />
 
+<img width="914" height="305" alt="Screenshot 2026-09-17 at 2 23 41 PM" src="https://github.com/user-attachments/assets/b45eb49e-1b6f-4da8-b3e1-942d85509796" />
+
+
 ## Activity 3
 
 ### Merge Conflict Resolution
